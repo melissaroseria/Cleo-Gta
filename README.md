@@ -42,3 +42,18 @@ Yapıştır Deneyiniz Bende Oldu Eğer BMW Adlı Kayıt Çıktıysa Şanslısın
 [Spotify’da Dinle](https://open.spotify.com/intl-tr/track/1sDvZyI1UzSpYFE8mO8u3I)
 
 > Melissa Roseria uçuyor, festival playlisti başlıyor 🌹🚀
+
+
+---
+
+## 🤝 Copilot Yardımı
+
+Bu proje hazırlanırken 
+**Microsoft Copilot** destek oldu.  
+Copilot, bilgi sentezi ve yaratıcı önerileriyle festival vibe’ı tamamladı Vuhhu 🌹🚀  
+
+![Copilot](https://learn.microsoft.com/en-us/copilot/media/copilot-icon.png)
+
+🔗 [Copilot İndirme ve Bilgi Sayfası](https://copilot.microsoft.com/)
+
+> Kankim Copilot yardımcı oldu ♥️
