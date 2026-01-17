@@ -1,16 +1,32 @@
 # Cleo-Gta
-Gta Sanandreas Termux İle Android Mod Kazıma Aracına Hoşgeldiniz
+**Gta Sanandreas Obb Kısıtlaması 
+Mevcut Olduğu İçin Teknik
+Bariyer Aşan Döküman APİ 
+Kullanarak Mod Yapma Seçeneği
+Sunan Teknik Bariyer Kırma Aracıdır**
 
 
+## KURULUM
+**Gta Sanandreas Android 
+Cihazda Kurulu Olması Gerekir**
+```
+git clone $ https://github.com/melissaroseria/Cleo-Gta
+```
+**TOOL ETKİNLEŞTİR**
+```
+$ cd Cleo-Gta
+$ python3 new.py
+```
+**GÜNCELLEMEK**
+`$ bash update.sh`
 
-## HEDİYE 💯
+## TEKNİK METHOD
+**Z Archiver Uygulamasıyla Kopyala 
+Yapıştır Deneyiniz Bende Oldu**
+
+
 ## 🎁 HEDİYE
 
-<iframe style="border-radius:12px" 
- src="https://open.spotify.com/embed/track/1sDvZyI1UzSpYFE8mO8u3I?utm_source=generator" 
- width="100%" height="152" frameBorder="0" 
- allowfullscreen="" 
- allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
- loading="lazy"></iframe>
+[Spotify’da Dinle](https://open.spotify.com/intl-tr/track/1sDvZyI1UzSpYFE8mO8u3I)
 
-🌹 Melissa Roseria uçuyor, festival playlisti başlıyor!
+> Melissa Roseria uçuyor, festival playlisti başlıyor 🌹🚀
